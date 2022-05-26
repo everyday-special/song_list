@@ -1,0 +1,12 @@
+Holiday;Lil Nas X;2;34;100001
+All Of The Lights;Kanye West;4;59;89324
+Industry Baby;Lil Nas X;3;32;80000
+Jail;Kanye West;4;57;64000
+Grown Up;Danny Brown;2;19;63225
+Sun in an Empty Room;The Weakerthans;4;0;56000
+I'm a Pretender;The Exploding Hearts;2;31;56000
+Black Mags;The Cool Kids;3;11;55000
+Modern Kicks;The Exploding Hearts;3;18;33000
+Money in the Way;2 Chainz;2;34;29756
+On And On;Curtis Harding;4;1;22000
+All Star;Smash Mouth;3;56;13000
